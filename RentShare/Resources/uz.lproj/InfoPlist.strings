@@ -1,0 +1,5 @@
+"NSLocationWhenInUseUsageDescription" = "Uy e’loningiz joylashuvini xaritada belgilash uchun, faqat so‘raganingizda joriy joylashuv olinadi.";
+"NSPhotoLibraryUsageDescription" = "Chat, profil yoki e’loningiz uchun o‘zingiz tanlagan rasmlarni qo‘shish.";
+"NSPhotoLibraryAddUsageDescription" = "Siz tanlagan chat rasmini galereyaga saqlash uchun.";
+"NSMicrophoneUsageDescription" = "Faqat ovozli xabar yozishni bosganingizda mikrofondan foydalanish.";
+"NSCameraUsageDescription" = "Chat, profil yoki e’loningiz uchun siz xohlaganingizda rasm yoki video olish.";

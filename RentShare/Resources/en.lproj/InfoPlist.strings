@@ -1,0 +1,5 @@
+"NSLocationWhenInUseUsageDescription" = "Use your location only when requested to mark a listing on the map. You can choose a point manually.";
+"NSPhotoLibraryUsageDescription" = "Add photos you choose to a chat, profile or listing.";
+"NSPhotoLibraryAddUsageDescription" = "Save a chat photo you choose to your photo library.";
+"NSMicrophoneUsageDescription" = "Use the microphone only when you choose to record a voice message.";
+"NSCameraUsageDescription" = "Take a photo or video for a chat, profile or listing when you choose.";
